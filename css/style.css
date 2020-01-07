@@ -1,0 +1,108 @@
+nav {
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  padding: 1em 0;
+  font-size: 0.75em;
+  background-color: #E7625E;
+  margin-bottom: 150px;
+}
+
+nav ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+
+nav a:link {
+  color: #222222;
+}
+
+nav a:visited {
+  color: orange;
+}
+
+nav a:hover {
+  border-bottom: none;
+  color: orange;
+}
+
+.nav2 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  padding: 1em 0;
+  font-size: 0.75em;
+  background-color: black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.nav2 ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.nav2 ul li {
+  display: inline;
+  margin: 20px;
+}
+
+.nav2 a:link {
+  color: white;
+}
+
+.nav2 a:visited {
+  color: white;
+}
+
+.nav2 a:hover {
+  border-bottom: none;
+  color: white;
+}
+
+.nav3 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  padding: 1em 0;
+  font-size: 0.75em;
+  background-color: orange;
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+.nav3 ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.nav3 ul li {
+  display: inline;
+  margin: 20px;
+}
+
+.nav3 a:link {
+  color: white;
+}
+
+.nav3 a:visited {
+  color: white;
+}
+
+.nav3 a:hover {
+  border-bottom: none;
+  color: red;
+}
