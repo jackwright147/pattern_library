@@ -1,3 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  line-height: 1em;
+}
+
 nav {
   top: 0;
   left: 0;
@@ -105,4 +112,45 @@ nav a:hover {
 .nav3 a:hover {
   border-bottom: none;
   color: red;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.top_h2 {
+  padding-bottom: 100px;
+}
+
+.example {
+  background-color: grey;
+  width: 100%
+}
+
+.main, .sub, .p {
+  padding-left: 50px;
+}
+
+.main {
+  padding-bottom: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.sub {
+  padding-bottom: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.p {
+  max-width: 900px;
+  padding-bottom: 50px;
+  font-family: 'Roboto Mono', monospace;
 }
